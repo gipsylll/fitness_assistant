@@ -1,3 +1,3 @@
-# fitness_assistant
+# fitness assistant
 
-***##install***
+##install
