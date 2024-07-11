@@ -1,3 +1,7 @@
 # fitness assistant
 
-##install
+***install GnuPlot (Ubuntu)***
+```
+sudo apt install gnuplot
+
+```
